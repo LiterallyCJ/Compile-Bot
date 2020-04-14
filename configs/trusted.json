@@ -1,0 +1,12 @@
+{
+
+  "comments": {
+    "1": "These are the people that don't need to abide by the blacklists and other limitations.",
+    "2": "This isn't required in the bot."
+  },
+
+  "trusted": [
+    "OWNER_ID",
+    ""
+  ]
+}

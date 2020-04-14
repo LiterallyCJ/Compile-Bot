@@ -1,0 +1,18 @@
+{
+  "name": "compile-bot",
+  "version": "1.0.0",
+  "description": "Compile Bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "CJ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2",
+    "got": "^10.7.0",
+    "quick.db": "^7.1.1"
+  }
+}

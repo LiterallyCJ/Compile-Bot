@@ -1,0 +1,33 @@
+{
+  "blacklist": [
+    "token",
+    "\\x74",
+    "\\x6f",
+    "\\x6b",
+    "\\x65",
+    "\\x6e",
+    "client[",
+    "login",
+    "set",
+    "activity",
+    "username",
+    "nickname",
+    "destroy",
+    "ban",
+    "kick",
+    "for",
+    "while",
+    "console",
+    "fetchuser",
+    "members",
+    "users",
+    "require",
+    "blacklist",
+    "trusted",
+    "delete",
+    "eval",
+    ".env",
+    "config"
+  ]
+
+}
