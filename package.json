@@ -12,7 +12,7 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "djs-commands": "^1.2.2",
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "quick.db": "^7.1.1"
   }
 }
